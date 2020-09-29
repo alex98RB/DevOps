@@ -8,6 +8,9 @@
 			<p id="copyright">Mise en page d'après
 				<a href="http://www.alsacreations.com/tutoriels/">Alsacréations</a>
 			</p>
+			<p>
+				Alexandre Barreiro Rodrigues
+			</p>
 		</div><!-- #pied -->
 	</div><!-- #global -->
 	</body>
