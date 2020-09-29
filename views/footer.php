@@ -1,4 +1,5 @@
 		<div id="pied">
+		Alexandre Barreiro Rodrigues Serie 2
 			<strong>Excellente journée qu'aujourd'hui le <?php echo $date ?></strong> :: 
 			<?php $time_end = microtime(true);
 				  $time = number_format(($time_end - $time_start)*1000,6);
@@ -7,9 +8,6 @@
 	        <a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a>
 			<p id="copyright">Mise en page d'après
 				<a href="http://www.alsacreations.com/tutoriels/">Alsacréations</a>
-			</p>
-			<p>
-				Alexandre Barreiro Rodrigues
 			</p>
 		</div><!-- #pied -->
 	</div><!-- #global -->
